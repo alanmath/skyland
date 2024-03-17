@@ -14,6 +14,4 @@ public class MenuController : MonoBehaviour
     {
         Application.Quit();
     }
-
-    // Adicione mais métodos conforme necessário
 }
